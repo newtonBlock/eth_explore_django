@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
-from crawler import Fetcher
+from crawler.fetcher import Fetcher
 
 # Create your views here.
 def index(request):

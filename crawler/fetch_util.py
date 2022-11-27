@@ -13,7 +13,7 @@ def refresh_logger(filename):
 
 def decodeBlock(block):
     """
-    Decode various pieces of info for a block and return the parsed data
+    Decode various pieces of info for a block import all and return the parsed data
     """
 
     try:
